@@ -19,3 +19,4 @@ samples, guidance on mobile development, and a full API reference.
 # UAS_MP_191011401044_MuhammadIksanIskandar
 # UAS_MP_191011401044_MuhammadIksanIskandar
 # UAS_MP_191011400947_DaffaArdaniPratama
+# UAS_MP_191011401060_AkmalRakasiw
